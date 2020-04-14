@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_684ab5b6c082558dd0338c850974842c147540f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_06c89343b2629b1cf1775dc3d80117d963df83b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\exploded-aar\com.dlazaro66.qrcodereaderview\qrcodereaderview\2.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ded76870e286da76793d7bfeaf65e6660f1bec08">
+        <dex dex="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\pre-dexed\debug\com.dlazaro66.qrcodereaderview-qrcodereaderview-2.0.3_06c56e2169ec37a9001e82376ddee16314be79cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_7d360c5cd54defe08bf92f62d4e28b290eed14c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_47e70bfbefd55f0c7e701d217394e92bc5c06aed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BHAVIK\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\pre-dexed\debug\core-3.2.1_133e0fad604822358e39c4015efc238dfd56b765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_94ceecd9bfe68a40b9a75399f31410b58b29f24e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_3e90e03d26852de61b8335e14be8203243fa6981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_e3b3448979d1f7c52076834fa9e53730f4d0cfe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_240cfbd428204f1a80b22919b36ebb8b048255b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_8432a40570b13ab385892cc5078f3c24f09de719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BHAVIK\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\ProIT Projects 17-18\BankAuthentication\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1a09577d5a9b60f3c5b9d6dfa1904938731d6748.jar" />
+    </item>
+
+</items>

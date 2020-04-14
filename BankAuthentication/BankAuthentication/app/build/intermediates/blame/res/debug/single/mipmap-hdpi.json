@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\BankAuthentication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_finance_safe.png",
+        "source": "F:\\BankAuthentication\\app\\src\\main\\res\\mipmap-hdpi\\ic_finance_safe.png"
+    },
+    {
+        "merged": "F:\\BankAuthentication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_bank.png",
+        "source": "F:\\BankAuthentication\\app\\src\\main\\res\\mipmap-hdpi\\ic_bank.png"
+    },
+    {
+        "merged": "E:\\ProIT Projects 17-18\\BankAuthentication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_bank.png",
+        "source": "E:\\ProIT Projects 17-18\\BankAuthentication\\app\\src\\main\\res\\mipmap-hdpi\\ic_bank.png"
+    },
+    {
+        "merged": "E:\\ProIT Projects 17-18\\BankAuthentication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\ProIT Projects 17-18\\BankAuthentication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ProIT Projects 17-18\\BankAuthentication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_finance_safe.png",
+        "source": "E:\\ProIT Projects 17-18\\BankAuthentication\\app\\src\\main\\res\\mipmap-hdpi\\ic_finance_safe.png"
+    },
+    {
+        "merged": "F:\\BankAuthentication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "F:\\BankAuthentication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
